@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-workboard-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "React frontend for the Fullstack Workboard task dashboard.",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "axios": "^1.7.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "vitest": "^2.0.0"
+  }
+}
